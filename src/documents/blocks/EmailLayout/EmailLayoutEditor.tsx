@@ -58,7 +58,6 @@ export default function EmailLayoutEditor(props: EmailLayoutProps) {
         align="center"
         width="96%"
         style={{
-          boxShadow: '0 0 10px rgba(0, 0, 0, 0.1)',
           margin: '0 auto',
           maxWidth: '600px',
           backgroundColor: props.canvasColor ?? '#FFFFFF',
