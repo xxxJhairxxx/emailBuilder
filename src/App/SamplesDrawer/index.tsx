@@ -24,7 +24,7 @@ export default function SamplesDrawer() {
         <Stack spacing={2} sx={{ '& .MuiButtonBase-root': { width: '100%', justifyContent: 'flex-start' } }}>
         <img src="./logosnp.jpg" style={{ width: '60%', height: 'auto', margin: 'auto' }} />
           <Typography variant="h6" component="h3" sx={{ p: 0.75 }}>
-            Templates proporcionados por Snap
+            Templates por Snap
           </Typography>
 
           <Stack alignItems="flex-start">
