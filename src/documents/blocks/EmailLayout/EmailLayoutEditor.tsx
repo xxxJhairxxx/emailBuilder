@@ -56,7 +56,7 @@ export default function EmailLayoutEditor(props: EmailLayoutProps) {
     >
       <table
         align="center"
-        width="96%"
+        width="100%"
         style={{
           margin: '0 auto',
           maxWidth: '600px',
@@ -74,8 +74,6 @@ export default function EmailLayoutEditor(props: EmailLayoutProps) {
         cellSpacing="0"
         cellPadding="0"
         border={0}
-        
-        
       >
         <tbody>
           <tr style={{ width: '100%' }}>
